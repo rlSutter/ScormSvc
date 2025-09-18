@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ScormSvc", "..\ScormSvc", "{63A1F4CE-CD25-4A22-82A2-B29D3DC0298D}"
+	ProjectSection(WebsiteProperties) = preProject
+		SccProjectName = "SAK"
+		SccAuxPath = "SAK"
+		SccLocalPath = "SAK"
+		SccProvider = "SAK"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.2"
+		Debug.AspNetCompiler.VirtualPath = "/ScormSvc"
+		Debug.AspNetCompiler.PhysicalPath = "..\ScormSvc\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\ScormSvc\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/ScormSvc"
+		Release.AspNetCompiler.PhysicalPath = "..\ScormSvc\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\ScormSvc\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "61097"
+		SlnRelativePath = "..\ScormSvc\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63A1F4CE-CD25-4A22-82A2-B29D3DC0298D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63A1F4CE-CD25-4A22-82A2-B29D3DC0298D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C694D45E-6E0D-417D-BF53-E3E5F9E972B7}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 1
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://hcitfs2012:8080/tfs/hci_applications
+		SccWebProject0 = true
+		SccProjectUniqueName0 = .
+		SccProjectName0 = .
+		SccAuxPath0 = http://hcitfs2012:8080/tfs/hci_applications
+		SccLocalPath0 = .
+		SccProvider0 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccProjectEnlistmentChoice0 = 2
+	EndGlobalSection
+EndGlobal
